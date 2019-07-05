@@ -1,0 +1,3 @@
+/Users/thanhtu/Projects/C++/Caffe_BEGAN/build/CMakeFiles/rebuild_cache.dir
+/Users/thanhtu/Projects/C++/Caffe_BEGAN/build/CMakeFiles/edit_cache.dir
+/Users/thanhtu/Projects/C++/Caffe_BEGAN/build/CMakeFiles/Caffe_BEGAN.dir
